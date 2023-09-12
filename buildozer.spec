@@ -4,7 +4,7 @@
 title = BMI Calculator
 
 # (str) Package name
-package.name = BMI Calculator
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
